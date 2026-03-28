@@ -2,6 +2,8 @@
 
 ### Azure Multimodal Compliance Orchestration Engine
 
+---
+
 ## 📌 Overview
 
 **Brand Guardian AI** is a production-grade **AI-powered compliance auditing system** that analyzes video content (e.g., ads, influencer promotions) and evaluates whether it adheres to regulatory guidelines (such as FTC rules).
@@ -314,16 +316,3 @@ Aspiring AI Engineer | Building production-grade GenAI systems
 
 Give this repo a ⭐ and feel free to connect!
 
----
-
-# 🔥 Next Step (Highly Recommended)
-
-If you want to stand out EVEN more:
-
-👉 I can create:
-
-* **2-minute interview pitch (killer version)**
-* **System design whiteboard explanation**
-* **Resume bullet points (high impact)**
-
-Just tell me 👍
