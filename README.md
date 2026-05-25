@@ -283,28 +283,6 @@ POST /audit
 
 ---
 
-## 🚀 Key Highlights (For Recruiters)
-
-* ✅ End-to-end LLM system (not a toy project)
-* ✅ RAG pipeline with Azure AI Search
-* ✅ Multimodal AI (video + OCR + text)
-* ✅ Agentic workflow (LangGraph)
-* ✅ Production backend (FastAPI)
-* ✅ Observability & monitoring
-* ✅ Cloud-native architecture
-
----
-
-## 🎯 Future Improvements
-
-* Add async execution (`ainvoke`)
-* Stream processing for long videos
-* Real-time dashboard UI
-* Multi-language compliance support
-* Batch video auditing
-
----
-
 ## 🧠 Author
 
 **Gautham N Vijayan**
